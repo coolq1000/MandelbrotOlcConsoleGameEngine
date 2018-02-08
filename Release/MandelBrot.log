@@ -1,0 +1,12 @@
+﻿  MandelBrot.cpp
+c:\users\coolq\projects\c++\mandelbrot\mandelbrot\mandelbrot\olcGameEngine.h(198): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\coolq\projects\c++\mandelbrot\mandelbrot\mandelbrot\olcGameEngine.h(199): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\coolq\projects\c++\mandelbrot\mandelbrot\mandelbrot\olcGameEngine.h(208): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\coolq\projects\c++\mandelbrot\mandelbrot\mandelbrot\olcGameEngine.h(209): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+MandelBrot.cpp(44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  3 of 212 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MandelBrot.vcxproj -> C:\Users\coolq\Projects\C++\Mandelbrot\MandelBrot\Release\MandelBrot.exe
